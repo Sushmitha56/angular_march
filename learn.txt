@@ -1,1 +1,2 @@
 Hi this is first time iam creating .text file in git.
+iam editing
